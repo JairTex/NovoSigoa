@@ -1,4 +1,4 @@
-package br.com.sigoa.view;
+Jairpackage br.com.sigoa.view;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
